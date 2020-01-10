@@ -1,2 +1,3 @@
 # SoftUni-Projects
- Some sample exercise projects
+Some sample exercises, that I want to keep for later use.
+
