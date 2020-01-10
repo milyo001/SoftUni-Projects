@@ -1,0 +1,10 @@
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_13.12.2018\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_13.12.2018\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_13.12.2018\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_13.12.2018\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_13.12.2018\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_13.12.2018\BookShop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_13.12.2018\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_13.12.2018\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_13.12.2018\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_13.12.2018\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb

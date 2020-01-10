@@ -1,0 +1,30 @@
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\01. Model Definition _Skeleton + Datasets NEW\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\01. Model Definition _Skeleton + Datasets NEW\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\01. Model Definition _Skeleton + Datasets NEW\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\01. Model Definition _Skeleton + Datasets NEW\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\01. Model Definition _Skeleton + Datasets NEW\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\01. Model Definition _Skeleton + Datasets NEW\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\01. Model Definition _Skeleton + Datasets NEW\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\01. Model Definition _Skeleton + Datasets NEW\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\01. Model Definition _Skeleton + Datasets NEW\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\01. Model Definition _Skeleton + Datasets NEW\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\CinemaProject\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\CinemaProject\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\CinemaProject\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\CinemaProject\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\CinemaProject\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\CinemaProject\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\CinemaProject\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\CinemaProject\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\CinemaProject\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EF_Core_Exam01\CinemaProject\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Miroslav Ilyovski\Desktop\SoftUni Projects\EFCoreExams\C#_DB_Advanced_Exam_07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
